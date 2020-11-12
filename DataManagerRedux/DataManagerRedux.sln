@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagerRedux", "DataManagerRedux\DataManagerRedux.csproj", "{0922B31E-A4FD-4155-B888-CC49C2D0E0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0922B31E-A4FD-4155-B888-CC49C2D0E0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0922B31E-A4FD-4155-B888-CC49C2D0E0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0922B31E-A4FD-4155-B888-CC49C2D0E0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0922B31E-A4FD-4155-B888-CC49C2D0E0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72046678-14D1-4A75-83BD-37EE1E50328F}
+	EndGlobalSection
+EndGlobal
